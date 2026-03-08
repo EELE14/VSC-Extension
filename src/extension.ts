@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 eele14. All Rights Reserved. */
 import * as vscode from "vscode";
 
 const commentSyntax: {
