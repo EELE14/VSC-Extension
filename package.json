@@ -1,8 +1,13 @@
 {
+  "publisher": "eele14",
   "name": "eele14-copyright-header",
-  "displayName": "Copyright Header",
+  "displayName": "EELE Copyright Header",
   "description": "Automatically adds copyright headers to code files",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EELE14/VSC-Extension"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
